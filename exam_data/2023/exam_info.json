@@ -9,6 +9,10 @@
     ],
     "languages": [
         {
+            "label": "Inglês",
+            "value": "english"
+        },
+        {
             "label": "Espanhol",
             "value": "spanish"
         }

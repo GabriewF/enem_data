@@ -1,0 +1,43 @@
+{
+    "title": "Questão 04 - ENEM 2023",
+    "index": 4,
+    "year": 2023,
+    "language": "english",
+    "discipline": "languages",
+    "context": "context.md",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Nesse poema de Tato Laviera, o eu lírico destaca uma",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Convergência linguístico-cultural.",
+            "files": [],
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Característica histórico-cultural.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Tendência estilístico-literária.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Discriminação cultural.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Censura musical.",
+            "files": [],
+            "isCorrect": false
+        }
+    ]
+}

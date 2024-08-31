@@ -1,0 +1,43 @@
+{
+    "title": "Questão 03 - ENEM 2023",
+    "index": 3,
+    "year": 2023,
+    "language": "english",
+    "discipline": "languages",
+    "context": "context.md",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Ao retratar a trajetória de refugiados, o poema recorre à imagem de viagem marítima para destacar o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Risco de choques culturais.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Impacto do ensino de história.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Importância da luta ambiental.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Existência de experiências plurais.",
+            "files": [],
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Necessidade de capacitação profissional.",
+            "files": [],
+            "isCorrect": false
+        }
+    ]
+}

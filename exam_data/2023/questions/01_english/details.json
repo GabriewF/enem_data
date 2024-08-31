@@ -1,0 +1,43 @@
+{
+    "title": "Questão 01 - ENEM 2023",
+    "index": 1,
+    "year": 2023,
+    "language": "english",
+    "discipline": "languages",
+    "context": "context.md",
+    "files": ["8cf3789a-3cf3-4932-85fe-9e996f8df653.png"],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Esse cartaz de campanha sugere que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Os lixões precisam de ampliação.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "O desperdício degrada o ambiente.",
+            "files": [],
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Os mercados doam alimentos perecíveis.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "A desnutrição compromete o raciocínio.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "As residências carecem de refrigeradores.",
+            "files": [],
+            "isCorrect": false
+        }
+    ]
+}
