@@ -1,0 +1,43 @@
+{
+    "title": "Questão 03 - ENEM 2023",
+    "index": 3,
+    "year": 2023,
+    "language": "spanish",
+    "discipline": "languages",
+    "context": "context.md",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Nesse poema, o eu poético enaltece a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Característica amistosa do povo espanhol.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Beleza das paisagens naturais da Espanha.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Variedade de pratos na gastronomia espanhola.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Relação entre os sentidos do paladar e do olfato na gastronomia.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Gastronomia  como  representação  da  identidade cultural de um povo.",
+            "files": [],
+            "isCorrect": true
+        }
+    ]
+}

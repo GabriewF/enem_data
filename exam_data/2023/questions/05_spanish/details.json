@@ -1,0 +1,43 @@
+{
+    "title": "Questão 05 - ENEM 2023",
+    "index": 5,
+    "year": 2023,
+    "language": "spanish",
+    "discipline": "languages",
+    "context": "context.md",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A letra da canção Que quede claro, da banda cubana Orishas, revela o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Indignação diante do desrespeito à diversidade.",
+            "files": [],
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Violência característica das grandes metrópoles.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Preconceito da sociedade com relação ao misticismo.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Descuido da população com os sonhos dos imigrantes.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Falta  de  segurança  existente  no  transporte  público urbano.",
+            "files": [],
+            "isCorrect": false
+        }
+    ]
+}

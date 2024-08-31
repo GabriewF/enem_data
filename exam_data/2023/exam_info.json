@@ -1,0 +1,16 @@
+{
+    "title": "ENEM 2023",
+    "year": 2023,
+    "disciplines": [
+        {
+            "label": "Linguagens, Códigos e Suas Tecnologias",
+            "value": "languages"
+        }
+    ],
+    "languages": [
+        {
+            "label": "Espanhol",
+            "value": "spanish"
+        }
+    ]
+}

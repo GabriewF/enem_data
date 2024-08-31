@@ -1,0 +1,43 @@
+{
+    "title": "Questão 04 - ENEM 2023",
+    "index": 4,
+    "year": 2023,
+    "language": "spanish",
+    "discipline": "languages",
+    "context": "context.md",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Nesse texto, a expressão \"cortina de humo\" revela que o manipulador",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Amadurece tardiamente.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Busca mascarar a verdade.",
+            "files": [],
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Rejeita questionamentos alheios.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Aproxima-se de pessoas indefesas.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Faz-se presente de forma controladora.",
+            "files": [],
+            "isCorrect": false
+        }
+    ]
+}
