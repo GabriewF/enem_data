@@ -1,0 +1,43 @@
+{
+    "title": "Questão 67 - ENEM 2023",
+    "index": 67,
+    "year": 2023,
+    "language": null,
+    "discipline": "human-sciences",
+    "context": "context.md",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A prática produtiva apresentada é um exemplo de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Difusão comercial de lavouras temporárias.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Utilização sustentável dos recursos naturais.",
+            "files": [],
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Ampliação tecnológica da pecuária intensiva.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Padronização alimentar dos povos tradicionais.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Modernização logística de plantios convencionais.",
+            "files": [],
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 74 - ENEM 2023",
+    "index": 74,
+    "year": 2023,
+    "language": null,
+    "discipline": "human-sciences",
+    "context": "context.md",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Ao comparar, no texto, a vertente da dominação territorial com os aspectos culturais, os incas tinham uma postura",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Aceitável no que alude aos direitos humanos.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Admissível no que remete às crenças coloniais.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Tolerável no que se refere aos regimes tributários.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Flexível no que diz respeito aos costumes religiosos.",
+            "files": [],
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Compreensível no que concerne às normas laborais.",
+            "files": [],
+            "isCorrect": false
+        }
+    ]
+}

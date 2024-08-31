@@ -1,0 +1,43 @@
+{
+    "title": "Questão 51 - ENEM 2023",
+    "index": 51,
+    "year": 2023,
+    "language": null,
+    "discipline": "human-sciences",
+    "context": "context.md",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "",
+            "files": [],
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "",
+            "files": [],
+            "isCorrect": false
+        }
+    ]
+}

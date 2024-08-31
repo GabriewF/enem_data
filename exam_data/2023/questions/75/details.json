@@ -1,0 +1,43 @@
+{
+    "title": "Questão 75 - ENEM 2023",
+    "index": 75,
+    "year": 2023,
+    "language": null,
+    "discipline": "human-sciences",
+    "context": "context.md",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Qual mudança no comportamento social a proposta reportada no texto reflete?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Rejeição de costumes elitistas.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Repulsão de condutas misóginas.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Condenação do preconceito racial.",
+            "files": [],
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Criminalização de práticas homofóbicas.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Contestação do comportamento machista.",
+            "files": [],
+            "isCorrect": false
+        }
+    ]
+}

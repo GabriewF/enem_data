@@ -1,0 +1,43 @@
+{
+    "title": "Questão 78 - ENEM 2023",
+    "index": 78,
+    "year": 2023,
+    "language": null,
+    "discipline": "human-sciences",
+    "context": "context.md",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A prática agrícola destacada no texto apresenta como vantagem no espaço urbano a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Ocupação de lugares ociosos.",
+            "files": [],
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Densificação da área central.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Valorização do mercado externo.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Priorização de insumos químicos.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Mecanização de técnicas de cultivo.",
+            "files": [],
+            "isCorrect": false
+        }
+    ]
+}

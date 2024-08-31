@@ -1,0 +1,43 @@
+{
+    "title": "Questão 53 - ENEM 2023",
+    "index": 53,
+    "year": 2023,
+    "language": null,
+    "discipline": "human-sciences",
+    "context": "context.md",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Qual dinâmica natural é responsável pelo fenômeno apresentado?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Derrame de lava vulcânica.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Encontro de placas tectônicas.",
+            "files": [],
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Ação do intemperismo químico.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Sedimentação de erosão eólica.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Derretimento de geleiras glaciais.",
+            "files": [],
+            "isCorrect": false
+        }
+    ]
+}

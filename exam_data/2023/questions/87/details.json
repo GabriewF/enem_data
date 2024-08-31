@@ -1,0 +1,43 @@
+{
+    "title": "Questão 87 - ENEM 2023",
+    "index": 87,
+    "year": 2023,
+    "language": null,
+    "discipline": "human-sciences",
+    "context": "context.md",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Conforme descrito nos textos, o tratamento dispensado aos grupos mencionados se fundamentava em",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Preceitos teológicos e religiosos.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Aspectos socioeconômicos e ideológicos.",
+            "files": [],
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Regulamentações territoriais e alfandegárias.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Orientações constitucionais e estatutárias.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Decretos legislativos e internacionais.",
+            "files": [],
+            "isCorrect": false
+        }
+    ]
+}

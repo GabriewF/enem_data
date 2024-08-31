@@ -1,0 +1,43 @@
+{
+    "title": "Questão 68 - ENEM 2023",
+    "index": 68,
+    "year": 2023,
+    "language": null,
+    "discipline": "human-sciences",
+    "context": "context.md",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A aglomeração urbana representada no texto resulta em",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Conservação do meio rural.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Crescimento da vegetação ciliar.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Interferência do espaço geográfico.",
+            "files": [],
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Equilíbrio do ambiente das cidades.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Controle da proliferação dos animais.",
+            "files": [],
+            "isCorrect": false
+        }
+    ]
+}

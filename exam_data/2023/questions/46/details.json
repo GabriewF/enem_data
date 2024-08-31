@@ -1,0 +1,43 @@
+{
+    "title": "Questão 46 - ENEM 2023",
+    "index": 46,
+    "year": 2023,
+    "language": null,
+    "discipline": "human-sciences",
+    "context": "context.md",
+    "files": ["601d8af3-2188-4ead-a165-4ea2fde9b32f.jpg"],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A definição de Sertão descrita no bordado associa esse recorte espacial a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Percursos e roteiros turísticos.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Trajetos e movimentos holísticos.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Vivências e itinerários socioafetivos.",
+            "files": [],
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Fronteiras e demarcações territoriais.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Profissões e interesses econômicos.",
+            "files": [],
+            "isCorrect": false
+        }
+    ]
+}

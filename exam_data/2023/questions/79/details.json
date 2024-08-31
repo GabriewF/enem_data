@@ -1,0 +1,43 @@
+{
+    "title": "Questão 79 - ENEM 2023",
+    "index": 79,
+    "year": 2023,
+    "language": null,
+    "discipline": "human-sciences",
+    "context": "context.md",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A postura determinista adotada pelo personagem Gerineldo contrasta com a ideia  existencialista contida no pensamento filosófico de Sartre porque",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Evidencia a manifestação do inconsciente.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Nega a possibilidade de transcendência.",
+            "files": [],
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Contraria o conhecimento difuso.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Sustenta a fugacidade da vida.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Refuta a evolução biológica.",
+            "files": [],
+            "isCorrect": false
+        }
+    ]
+}

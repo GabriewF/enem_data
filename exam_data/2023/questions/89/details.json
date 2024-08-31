@@ -1,0 +1,43 @@
+{
+    "title": "Questão 89 - ENEM 2023",
+    "index": 89,
+    "year": 2023,
+    "language": null,
+    "discipline": "human-sciences",
+    "context": "context.md",
+    "files": ["d04d62ed-4f94-44e0-aa59-f8f1930646f7.png"],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Qual medida é capaz de minimizar as mudanças apresentadas nas simulações?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Expandir o transporte marítimo.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Incentivar os fluxos migratórios.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Monitorar as atividades vulcânicas.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Controlar as emissões de carbono.",
+            "files": [],
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Priorizar a utilização de termoelétricas.",
+            "files": [],
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 84 - ENEM 2023",
+    "index": 84,
+    "year": 2023,
+    "language": null,
+    "discipline": "human-sciences",
+    "context": "context.md",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "No contexto descrito, as mudanças mencionadas proporcionavam às mulheres o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Controle do orçamento familiar.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Libertação das tradições religiosas.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Exercício da representatividade política.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Ampliação dos momentos de socialização.",
+            "files": [],
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Afastamento das atividades especializadas.",
+            "files": [],
+            "isCorrect": false
+        }
+    ]
+}

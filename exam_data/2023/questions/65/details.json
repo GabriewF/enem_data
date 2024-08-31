@@ -1,0 +1,43 @@
+{
+    "title": "Questão 65 - ENEM 2023",
+    "index": 65,
+    "year": 2023,
+    "language": null,
+    "discipline": "human-sciences",
+    "context": "context.md",
+    "files": ["c18ebad7-dd98-42e6-8f3a-bb3fff5778f6.png"],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "As transformações pelas quais passaram as sociedades ocidentais e que possibilitaram o reconhecimento recente do trabalho da arquiteta mencionada no texto foram resultado das mobilizações sociais pela",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Equidade de gênero.",
+            "files": [],
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Liberdade de expressão.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Admissibilidade de voto.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Igualdade de oportunidade.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Reciprocidade de tratamento.",
+            "files": [],
+            "isCorrect": false
+        }
+    ]
+}

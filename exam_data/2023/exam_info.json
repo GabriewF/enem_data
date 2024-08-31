@@ -3,6 +3,10 @@
     "year": 2023,
     "disciplines": [
         {
+            "label": "Ciências Humanas e Suas Tecnologias",
+            "value": "human-sciences"
+        },
+        {
             "label": "Linguagens, Códigos e Suas Tecnologias",
             "value": "languages"
         }

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 71 - ENEM 2023",
+    "index": 71,
+    "year": 2023,
+    "language": null,
+    "discipline": "human-sciences",
+    "context": "context.md",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Na visão do autor, o problema central da situação descrita é desencadeado pela",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Apropriação de áreas devolutas.",
+            "files": [],
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Sonegação de impostos federais.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Incorporação de exportação ilegal.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Desoneração de setores produtivos.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Flexibilização de legislação ambiental.",
+            "files": [],
+            "isCorrect": false
+        }
+    ]
+}

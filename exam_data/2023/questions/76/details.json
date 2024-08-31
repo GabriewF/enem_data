@@ -1,0 +1,43 @@
+{
+    "title": "Questão 76 - ENEM 2023",
+    "index": 76,
+    "year": 2023,
+    "language": null,
+    "discipline": "human-sciences",
+    "context": "context.md",
+    "files": ["ed6c97f0-b22b-44b1-9fbc-14de966f93f2.png"],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Qual fator foi determinante para a mudança do indicador apresentado no gráfico?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Flexibilização legal da prática de aborto.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Envelhecimento da população brasileira.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Crescimento dos casos de gravidez precoce.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Participação feminina no mercado de trabalho.",
+            "files": [],
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Diminuição dos benefícios na licença-maternidade.",
+            "files": [],
+            "isCorrect": false
+        }
+    ]
+}

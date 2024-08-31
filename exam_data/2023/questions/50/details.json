@@ -1,0 +1,43 @@
+{
+    "title": "Questão 50 - ENEM 2023",
+    "index": 50,
+    "year": 2023,
+    "language": null,
+    "discipline": "human-sciences",
+    "context": "context.md",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Em relação ao conhecimento sobre a formação cultural brasileira, iniciativas como a descrita no texto favorecem o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Recuperação do tradicionalismo.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Estímulo ao antropocentrismo.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Reforço do etnocentrismo.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Resgate do teocentrismo.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Crítica ao eurocentrismo.",
+            "files": [],
+            "isCorrect": true
+        }
+    ]
+}

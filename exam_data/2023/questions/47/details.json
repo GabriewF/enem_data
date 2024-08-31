@@ -1,0 +1,43 @@
+{
+    "title": "Questão 47 - ENEM 2023",
+    "index": 47,
+    "year": 2023,
+    "language": null,
+    "discipline": "human-sciences",
+    "context": "context.md",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Na perspectiva do autor, as tradições e os costumes sociofamiliares sofreram alterações, no século XIX, decorrentes de quais fatores?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Hábitos de leitura e mobilidade regional.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Circulação de impressos e trânsito religioso.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Valorização da língua e imigração estrangeira.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Práticas de letramento e transformação cultural.",
+            "files": [],
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Flexibilização do ensino e reformismo pedagógico.",
+            "files": [],
+            "isCorrect": false
+        }
+    ]
+}

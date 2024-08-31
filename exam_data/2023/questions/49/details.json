@@ -1,0 +1,43 @@
+{
+    "title": "Questão 49 - ENEM 2023",
+    "index": 49,
+    "year": 2023,
+    "language": null,
+    "discipline": "human-sciences",
+    "context": "context.md",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A política demográfica para a província mencionada nos textos é parte da seguinte ação estratégica do governo chinês:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Promover a ocupação rural.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Favorecer a liberdade religiosa.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Descentralizar a gestão pública.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Incentivar a pluralidade cultural.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Assegurar a integridade territorial.",
+            "files": [],
+            "isCorrect": true
+        }
+    ]
+}

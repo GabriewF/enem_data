@@ -1,0 +1,43 @@
+{
+    "title": "Questão 69 - ENEM 2023",
+    "index": 69,
+    "year": 2023,
+    "language": null,
+    "discipline": "human-sciences",
+    "context": "context.md",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O texto evidencia situação representativa de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Afronta às estruturas sociais.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Desprezo aos valores religiosos.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Transgressão às normas morais.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Desrespeito à dignidade humana.",
+            "files": [],
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Oposição aos princípios hierárquicos.",
+            "files": [],
+            "isCorrect": false
+        }
+    ]
+}

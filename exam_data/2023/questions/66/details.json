@@ -1,0 +1,43 @@
+{
+    "title": "Questão 66 - ENEM 2023",
+    "index": 66,
+    "year": 2023,
+    "language": null,
+    "discipline": "human-sciences",
+    "context": "context.md",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Considerando a realidade brasileira, os textos se aproximam ao apresentarem uma reflexão sobre o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Recorrência da miséria.",
+            "files": [],
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Planejamento da saúde.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Superação da escassez.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Constância da economia.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Romantização da carência.",
+            "files": [],
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 81 - ENEM 2023",
+    "index": 81,
+    "year": 2023,
+    "language": null,
+    "discipline": "human-sciences",
+    "context": "context.md",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O texto apresenta uma relação de cálculo político-econômico que caracteriza o poder punitivo por meio da",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Gestão das ilicitudes pelo sistema judicial.",
+            "files": [],
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Aplicação das sanções pelo modelo equânime.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Supressão dos crimes pela penalização severa.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Regulamentação dos privilégios pela justiça social.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Repartição de vantagens pela hierarquização cultural.",
+            "files": [],
+            "isCorrect": false
+        }
+    ]
+}

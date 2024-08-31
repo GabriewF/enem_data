@@ -1,0 +1,43 @@
+{
+    "title": "Questão 48 - ENEM 2023",
+    "index": 48,
+    "year": 2023,
+    "language": null,
+    "discipline": "human-sciences",
+    "context": "context.md",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Os elementos descritos no texto, a respeito da territorialização da produção, demonstram que há um",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Cerco aos camponeses, inviabilizando a manutenção das condições para a vida.",
+            "files": [],
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Descaso aos latifundiários, impactando a plantação de alimentos para a exportação.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Desprezo ao assalariado, afetando o engajamento dos sindicatos para o trabalhador.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Desrespeito aos governantes, comprometendo a criação de empregos para o lavrador.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Assédio ao empresariado, dificultando o investimento de maquinários para a produção.",
+            "files": [],
+            "isCorrect": false
+        }
+    ]
+}

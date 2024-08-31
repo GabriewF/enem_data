@@ -1,0 +1,43 @@
+{
+    "title": "Questão 61 - ENEM 2023",
+    "index": 61,
+    "year": 2023,
+    "language": null,
+    "discipline": "human-sciences",
+    "context": "context.md",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O texto critica a mudança tecnológica em razão da seguinte consequência:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Diversificação da função.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Mobilidade da população.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Autonomia do empregado.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Concentração da produção.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Invisibilidade do profissional.",
+            "files": [],
+            "isCorrect": true
+        }
+    ]
+}

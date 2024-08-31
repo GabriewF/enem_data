@@ -1,0 +1,43 @@
+{
+    "title": "Questão 57 - ENEM 2023",
+    "index": 57,
+    "year": 2023,
+    "language": null,
+    "discipline": "human-sciences",
+    "context": "context.md",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A reflexão sobre o perdão apresentada no texto encontra fundamento na(s)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Rejeição particular amparada pelo desejo de poder.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Decisão subjetiva determinada pela vontade divina.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Liberdade mitigada pela predestinação do espírito.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Escolhas humanas definidas pelo conhecimento empírico.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Relações interpessoais mediadas pela autonomia dos indivíduos.",
+            "files": [],
+            "isCorrect": true
+        }
+    ]
+}

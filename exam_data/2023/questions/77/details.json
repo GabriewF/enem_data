@@ -1,0 +1,44 @@
+{
+    "title": "Questão 77 - ENEM 2023",
+    "index": 77,
+    "year": 2023,
+    "language": null,
+    "discipline": "human-sciences",
+    "context": "context.md",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Escrito em 1828, o texto expressa a seguinte ideia de origem iluminista:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "As leis observáveis regem o mundo material.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "O monarca racional promove a sociedade justa.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "O direito natural justifica a liberdade dos homens.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "A produção da terra garante a riqueza das nações.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "A responsabilidade dos governantes assegura a saúde dos povos.",
+            "files": [],
+            "isCorrect": true
+
+        }
+    ]
+}

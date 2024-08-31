@@ -1,0 +1,43 @@
+{
+    "title": "Questão 72 - ENEM 2023",
+    "index": 72,
+    "year": 2023,
+    "language": null,
+    "discipline": "human-sciences",
+    "context": "context.md",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Os textos apresentam perspectivas da nova corrida espacial que revelam, respectivamente:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Dependência e progresso.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Expectativa e desconfiança.",
+            "files": [],
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Angústia e adaptação.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Pioneirismo e retrocesso.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Receio e civilidade.",
+            "files": [],
+            "isCorrect": false
+        }
+    ]
+}

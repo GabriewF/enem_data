@@ -1,0 +1,43 @@
+{
+    "title": "Questão 64 - ENEM 2023",
+    "index": 64,
+    "year": 2023,
+    "language": null,
+    "discipline": "human-sciences",
+    "context": "context.md",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O discurso da líder indígena explicita um problema global relacionado ao(à)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Manejo tradicional.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Reciclagem residual.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Consumo consciente.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Exploração predatória.",
+            "files": [],
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Reaproveitamento energético.",
+            "files": [],
+            "isCorrect": false
+        }
+    ]
+}

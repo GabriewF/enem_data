@@ -1,0 +1,43 @@
+{
+    "title": "Questão 83 - ENEM 2023",
+    "index": 83,
+    "year": 2023,
+    "language": null,
+    "discipline": "human-sciences",
+    "context": "context.md",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A partir da ocupação desordenada exposta no texto, o que impede a recuperação do recurso natural destacado é a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Elevação da biomassa.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Redução da salinização.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Diminuição da fertilidade.",
+            "files": [],
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Ampliação da microfauna.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Decomposição do substrato.",
+            "files": [],
+            "isCorrect": false
+        }
+    ]
+}

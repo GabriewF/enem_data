@@ -1,0 +1,43 @@
+{
+    "title": "Questão 58 - ENEM 2023",
+    "index": 58,
+    "year": 2023,
+    "language": null,
+    "discipline": "human-sciences",
+    "context": "context.md",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "As mudanças culturais mencionadas no texto caracterizam-se pela presença de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Elementos tradicionais e modernos em torno de uma crença religiosa.",
+            "files": [],
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Argumentos teológicos e históricos em consequência de uma ordem papal.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Fundamentos estéticos e etnográficos em função de uma cerimônia clerical.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Práticas corporais e esportivas em decorrência de uma imposição eclesiástica.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Discursos filosóficos e antropológicos em resultado de uma determinação paroquial.",
+            "files": [],
+            "isCorrect": false
+        }
+    ]
+}

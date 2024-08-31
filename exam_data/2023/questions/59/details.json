@@ -1,0 +1,43 @@
+{
+    "title": "Questão 59 - ENEM 2023",
+    "index": 59,
+    "year": 2023,
+    "language": null,
+    "discipline": "human-sciences",
+    "context": "context.md",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O processo social relatado indica  a formação de uma etiqueta que tem como princípio a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Distinção das classes sociais.",
+            "files": [],
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Valorização de hábitos de higiene.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Exaltação da cultura mediterrânea.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Consagração de tradições medievais.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Disseminação de produtos manufaturados.",
+            "files": [],
+            "isCorrect": false
+        }
+    ]
+}

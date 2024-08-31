@@ -1,0 +1,43 @@
+{
+    "title": "Questão 63 - ENEM 2023",
+    "index": 63,
+    "year": 2023,
+    "language": null,
+    "discipline": "human-sciences",
+    "context": "context.md",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O desenvolvimento do processo artístico descrito no texto foi possível pelo(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Representação arquitetônica.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Intercâmbio transcontinental.",
+            "files": [],
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Dependência econômica.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Intervenção estatal.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Padrão estético.",
+            "files": [],
+            "isCorrect": false
+        }
+    ]
+}

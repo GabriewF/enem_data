@@ -1,0 +1,43 @@
+{
+    "title": "Questão 88 - ENEM 2023",
+    "index": 88,
+    "year": 2023,
+    "language": null,
+    "discipline": "human-sciences",
+    "context": "context.md",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "De acordo com a diferenciação feita pelo autor, que prática econômica é considerada moralmente condenável?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Adoção do dumping comercial.",
+            "files": [],
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Fusão da função administrativa.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Criação de holding empresarial.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Limitação do mercado monopolista.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Modernização da produção industrial.",
+            "files": [],
+            "isCorrect": false
+        }
+    ]
+}

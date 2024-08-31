@@ -1,0 +1,43 @@
+{
+    "title": "Questão 82 - ENEM 2023",
+    "index": 82,
+    "year": 2023,
+    "language": null,
+    "discipline": "human-sciences",
+    "context": "context.md",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Conforme o texto, as correspondências trocadas entre imigrantes  no  Brasil  com  os  seus  países  de  procedência constituíam um dispositivo tecnológico que possibilitava o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Disputa ideológica entre a comunidade de estrangeiros e a de nativos.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Circularidade cultural entre a sociedade de partida e a de acolhimento.",
+            "files": [],
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Controle doutrinário das narrativas do cotidiano de origem e de destino.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Fiscalização política dos fluxos de populações do Novo e do Velho Mundo.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Monitoramento social dos grupos de trabalhadores da cidade e do campo.",
+            "files": [],
+            "isCorrect": false
+        }
+    ]
+}

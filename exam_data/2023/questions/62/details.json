@@ -1,0 +1,43 @@
+{
+    "title": "Questão 62 - ENEM 2023",
+    "index": 62,
+    "year": 2023,
+    "language": null,
+    "discipline": "human-sciences",
+    "context": "context.md",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Os atos de competição citados têm suas origens históricas vinculadas a um contexto de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Domínio cultural-identitário de atores sociais.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Disputas étnico-raciais de povos tradicionais.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Divergências político-ideológicas de agentes estatais.",
+            "files": [],
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Imposição econômico-financeira de empresas privadas.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Protestos ecológico-sustentáveis de entidades ambientais.",
+            "files": [],
+            "isCorrect": false
+        }
+    ]
+}

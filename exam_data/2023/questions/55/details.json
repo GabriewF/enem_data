@@ -1,0 +1,43 @@
+{
+    "title": "Questão 55 - ENEM 2023",
+    "index": 55,
+    "year": 2023,
+    "language": null,
+    "discipline": "human-sciences",
+    "context": "context.md",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "No texto, o tempo livre é concebido como",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Consumo de produtos culturais elaborados no mesmo sistema produtivo do capitalismo.",
+            "files": [],
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Forma de realizar as diversas potencialidades da natureza humana.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Alternativa para equilibrar tensões psicológicas do dia a dia.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Promoção da satisfação de necessidades artificiais.",
+            "files": [],
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Mecanismo de organização do ócio e do prazer.",
+            "files": [],
+            "isCorrect": false
+        }
+    ]
+}
